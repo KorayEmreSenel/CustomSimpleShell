@@ -1,2 +1,2 @@
-# OperatingSystemProject2
+# Custom Simple Shell
 Operating System lecture project 2 
